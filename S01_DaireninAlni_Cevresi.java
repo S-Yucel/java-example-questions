@@ -1,4 +1,4 @@
-public class S01_DaireninAlni_Cevresi {
+public class S01_DaireninAlani_Cevresi {
     public static void main(String[] args) {
         /*
         Dairenin alanini ve cevresini hesaplayan java kodu yaziniz.
